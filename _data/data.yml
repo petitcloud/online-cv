@@ -35,16 +35,6 @@ sidebar:
       - idiom: Japanese
         level: Fluent
 
-    interests:
-      - item:
-        link:
-
-      - item:
-        link:
-
-      - item:
-        link:
-
 career-profile:
     title: Career Profile
     summary: |
@@ -148,13 +138,13 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: VASP
+      - name: Simulation tool (VASP)
         level: 98%
 
       - name: Python programming
         level: 95%
 
-      - name: Gaussian
+      - name: Simulation tool (Gaussian)
         level: 85%
 
       - name: Machine learing (Tensorflow)
