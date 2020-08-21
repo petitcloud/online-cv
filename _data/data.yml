@@ -90,9 +90,7 @@ experiences:
 publications:
     title: Publications
     intro: |
-      Total h-index: 21 (Google Scholar) 
-      (https://scholar.google.co.kr/citations?user=_z3JW2YAAAAJ)
-      Representitave papers:
+      Below are representitave papers. Full publication list can be found in (https://scholar.google.co.kr/citations?user=_z3JW2YAAAAJ)
     papers:
       - title: Predicting chemical reactivity of organic materials using machine-learning approach
         link: "#"
