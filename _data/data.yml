@@ -145,13 +145,13 @@ skills:
       - name: Simulation tool (Gaussian)
         level: 85%
 
-      - name: Machine learing (Tensorflow)
+      - name: ML tool (Tensorflow)
         level: 85%
 
       - name: Matlab programming
         level: 55%
 
-      - name: Machine learing (Scikit-learn)
+      - name: ML tool (Scikit-learn)
         level: 50%
 
 footer: >
