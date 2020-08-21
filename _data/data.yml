@@ -3,188 +3,168 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Byungju Lee
+    tagline: Computational materials scientist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: petitwhisper@gmail.com
+    phone: 240 271 9129
+    website: scholar.google.co.kr/citations?user=_z3JW2YAAAAJ #do not add http://
+    linkedin: byungju-lee-365586166
+    github:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Korean
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: English
+        level: Fluent
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Japanese
+        level: Fluent
 
     interests:
-      - item: Climbing
+      - item:
         link:
 
-      - item: Snowboarding
+      - item:
         link:
 
-      - item: Cooking
+      - item:
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Seven years of experience in first-principle calculation, data analysis, machine learning and problem-solving in materials science.
+      Profound experience in understanding reaction mechanism and developing new materials for post Li-ion batteries, such as metal-air batteries, Li-organic batteries, and all solid-state batteries. Main research interests are theoretical analysis on reactivity prediction, ionic conduction and synthesis mechanism.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Ph.D in Mateirals Science and Engineering
+      university: Seoul National University
+      time: 2014 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
+        Advanced Energy Materials Laboratory
+        Department of Materials Science and Engineering
+        Seoul National University | Republic of Korea 
+        Thesis Title: “First-principles study on the reaction chemistry of metal-air batteries” 
+        (Advisor: Prof. Kisuk Kang) 
+    - degree: Msc in Mateirals Science and Engineering
+      university: Seoul National University
       time: 2012 - 2014
-      company: Amazon, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        Advanced Energy Materials Laboratory
+        Department of Materials Science and Engineering
+        Seoul National University | Republic of Korea 
+        Thesis Title: “First-principles study on the reaction mechanism in metal-air batteries” 
+        (Advisor: Prof. Kisuk Kang) 
+    - degree: BSc in Applied Mathematics
+      university: Seoul National University
+      time: 2008 - 2012
+      details: |
+        Major: Materials Science and Engineering
+        Seoul National University | Republic of Korea 
+experiences:
+    - role: Post-doctoral researcher
+      time: 2019 - Present
+      company: Lawrence Berkeley National Laboratory, Berkeley, California, USA
+      details: |
+        Developing a new amorphous-based solid-state electrolyte for lithium ion batteries
+          - Elucidating the origin of high conductivity of amorphous Li-P-S batteries
+          - Machine-learning based discovery of solid-state electrolyte candidate materials
+    - role: Post-doctoral researcher
+      time: 2018 - 2019
+      company: Seoul National University, Seoul, Republic of Korea
+      details: |
+        Finding a new electrolyte with high stability against reactive cell components
+          - Developing machine-learning model for fast screening of reactivity between cell components
+          - Screening of electrolyte cadidates
+    - role: Research Assistant
+      time: 2012 - 2018
+      company: Seoul National University, Seoul, Republic of Korea
+      details: |
+        Unveiling fundamental properties of discharge products and reaction mechanism of metal-oxygen batteries using first-principle calculations
+        Co-work with experimentalists on developing materials for Li-ion batteries, Li-organic batteries, and all solid-state batteries 
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Total h-index: 21 (Google Scholar) 
+      (https://scholar.google.co.kr/citations?user=_z3JW2YAAAAJ)
+      Representitave papers:
     papers:
-      - title: The Art of Computer Programming
+      - title: Predicting chemical reactivity of organic materials using machine-learning approach
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Byungju Lee, Jaekyun Yoo and Kisuk Kang
+        conference: Chemical Science, Vol 11, pp.7813-7822. (2020)
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "Exploiting biological systems: Toward eco-friendly and high-efficiency rechargeable batteries"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Byungju Lee†, Youngmin Ko†, Giyun Kwon†, Sechan Lee, Kyojin Ku, Jihyeon Kim, and Kisuk Kang
+        conference: Joule, Vol 2, pp. 61-75. (2018)
 
-      - title: A syntax directed compiler for Algol 60
+      - title: Materials science: Long-lived electrodes for plastic batteries
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: Byungju Lee, and Kisuk Kang
+        conference: Nature, Vol 549, pp. 339-340. (2017)
+
+      - title: Reaction chemistry in rechargeable Li–O2 batteries
+        link: "#"
+        authors: Hee-Dae Lim†, Byungju Lee†, Youngjoon Bae, Hyeokjun Park, Youngmin Ko, Haegyeom Kim, Jinsoo Kim, and Kisuk Kang 
+        conference: Chemical Society Reviews, Vol 46, pp. 2873-2888. (2017)
+
+      - title: Redesign of Li2MP2O7 (M = Fe, Mn) by tuning the Li diffusion in rechargeable battery electrodes
+        link: "#"
+        authors: Jongsoon Kim†, Byungju Lee†, Hyungsub Kim, Hyunah Kim, Kisuk Kang
+        conference: Chemistry of Materials, Vol 28, pp. 6894-6899 (2016)
+
+      - title: Rational design of redox mediators for advanced Li-O2 batteries
+        link: "#"
+        authors: Hee-Dae Lim†, Byungju Lee†, Yongping Zheng, Jihyun Hong, Jinsoo Kim, Hyeokjo Gwon, Youngmin Ko, Minah Lee, Kyeongjae Cho, Kisuk Kang 
+        conference: Nature Energy, Vol 1, 16066. (2016)
+
+      - title: Theoretical evidence for low charging overpotentials of superoxide discharge products in metal-oxygen batteries
+        link: "#"
+        authors: Byungju Lee, Jinsoo Kim, Gabin Yoon, Hee-Dae Lim, In-Suk Choi, Kisuk Kang
+        conference: Chemistry of Materials, Vol 27, pp. 8406-8413. (2015)
+        
+      - title: First-principles study of the reaction mechanism in sodium-oxygen batteries
+        link: "#"
+        authors: Byungju Lee, Dong-Hwa Seo, Hee-Dae Lim, Inchul Park, Kyu-Young Park, Jinsoo Kim, and Kisuk Kang 
+        conference: Chemistry of Materials, Vol 26, pp. 1048-1055. (2014)
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: VASP
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Python programming
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Gaussian
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Machine learing (Tensorflow)
+        level: 85%
+
+      - name: Matlab programming
+        level: 55%
+
+      - name: Machine learing (Scikit-learn)
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
