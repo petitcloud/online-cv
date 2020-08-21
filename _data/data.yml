@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Byungju Lee
@@ -59,7 +59,7 @@ education:
         Seoul National University | Republic of Korea 
         Thesis Title: “First-principles study on the reaction mechanism in metal-air batteries” 
         (Advisor: Prof. Kisuk Kang) 
-    - degree: BSc in Applied Mathematics
+    - degree: BSc in Mateirals Science and Engineering
       university: Seoul National University
       time: 2008 - 2012
       details: |
